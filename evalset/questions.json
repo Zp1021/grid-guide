@@ -1,0 +1,105 @@
+[
+  {
+    "question": "What is a regional transmission organization?",
+    "expected": ["Regional transmission organization (North America)"]
+  },
+  {
+    "question": "Which states does PJM serve?",
+    "expected": ["PJM Interconnection"]
+  },
+  {
+    "question": "What does the New York Independent System Operator do?",
+    "expected": ["New York Independent System Operator"]
+  },
+  {
+    "question": "What is demand response?",
+    "expected": ["Demand response"]
+  },
+  {
+    "question": "How does net metering credit customers with solar panels?",
+    "expected": ["Net metering"]
+  },
+  {
+    "question": "What is a peaking power plant and when does it run?",
+    "expected": ["Peaking power plant"]
+  },
+  {
+    "question": "What does base load mean?",
+    "expected": ["Base load"]
+  },
+  {
+    "question": "Why is electricity transmitted at high voltage over long distances?",
+    "expected": ["Electric power transmission"]
+  },
+  {
+    "question": "What does a distribution substation do?",
+    "expected": ["Electric power distribution"]
+  },
+  {
+    "question": "What is the difference between a blackout and a brownout?",
+    "expected": ["Power outage"]
+  },
+  {
+    "question": "What does the Federal Energy Regulatory Commission regulate?",
+    "expected": ["Federal Energy Regulatory Commission"]
+  },
+  {
+    "question": "What is NERC responsible for?",
+    "expected": ["North American Electric Reliability Corporation"]
+  },
+  {
+    "question": "How does pumped-storage hydroelectricity store energy?",
+    "expected": ["Grid energy storage"]
+  },
+  {
+    "question": "What makes a grid a smart grid?",
+    "expected": ["Smart grid"]
+  },
+  {
+    "question": "What is a capacity market?",
+    "expected": [
+      "Electricity market",
+      "PJM Interconnection",
+      "Regional transmission organization (North America)"
+    ]
+  },
+  {
+    "question": "How are wholesale electricity prices set?",
+    "expected": [
+      "Electricity market",
+      "Regional transmission organization (North America)"
+    ]
+  },
+  {
+    "question": "What is a wide area synchronous grid?",
+    "expected": ["Electrical grid"]
+  },
+  {
+    "question": "What is a cascading failure on the grid?",
+    "expected": ["Power outage", "Electrical grid"]
+  },
+  {
+    "question": "Which batteries are used for grid storage?",
+    "expected": ["Grid energy storage"]
+  },
+  {
+    "question": "What voltage do homes receive from the distribution system?",
+    "expected": ["Electric power distribution"]
+  },
+  {
+    "question": "What is the best recipe for chocolate chip cookies?",
+    "expected": []
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "expected": []
+  },
+  {
+    "question": "How do I train a puppy to sit?",
+    "expected": []
+  },
+  {
+    "question": "Which planet has the most moons?",
+    "expected": []
+  }
+]
