@@ -75,4 +75,4 @@ if __name__ == "__main__":
     totals = fetch_all()
     print(totals)
     if totals["saved"] == 0:
-        raise SystemExit("No articles were saved. See Troubleshooting in the guide.")
+        raise SystemExit("No articles were saved. Check your internet connection and try again.")
