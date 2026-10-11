@@ -2,7 +2,7 @@
 
 A question-answering assistant about the electric power grid. It searches a small library of Wikipedia articles, then has a language model write an answer that cites its sources.
 
-**Live demo:** [(https://grid-guide-m2sysqrhzlaazenuso57t6.streamlit.app/)]
+**Live demo:** <https://grid-guide-m2sysqrhzlaazenuso57t6.streamlit.app/>
 
 ![tests](https://github.com/Zp1021/grid-guide/actions/workflows/tests.yml/badge.svg)
 
