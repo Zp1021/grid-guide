@@ -40,7 +40,7 @@ CHUNK_OVERLAP = 40
 TOP_K = 4
 MIN_SCORE = 0.08
 
-# The lange model. Haiku is Anthropic's fastest, lowest-cost model
+# The language model. Haiku is Anthropic's fastest, lowest-cost model
 MODEL = "claude-haiku-4-5-20251001"
 MAX_ANSWER_TOKENS = 500
 
